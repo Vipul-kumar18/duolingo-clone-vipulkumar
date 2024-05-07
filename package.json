@@ -14,9 +14,9 @@
     "db:prod": "tsx ./scripts/prod.ts"
   },
   "author": {
-    "name": "Vipul Rohit",
-    "email": "vipulrohit127@gmail.com",
-    "url": "https://github.com/Vipul-kumar18"
+    "name": "Sanidhya Kumar Verma",
+    "email": "sanidhya.verma12345@gmail.com",
+    "url": "https://github.com/sanidhyy"
   },
   "description": "Interactive platform for language learning with lessons, quizzes, and progress tracking.",
   "keywords": [
@@ -57,10 +57,22 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vipul-kumar18?tab=repositories"
-  }
- 
-  
+    "url": "https://github.com/sanidhyy/duolingo-clone.git"
+  },
+  "homepage": "https://github.com/sanidhyy/duolingo-clone#readme",
+  "bugs": {
+    "url": "https://github.com/sanidhyy/duolingo-clone/issues",
+    "email": "sanidhya.verma12345@gmail.com"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/sanidhy"
+    },
+    {
+      "type": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/sanidhy"
+    }
   ],
   "dependencies": {
     "@clerk/nextjs": "^4.29.9",
@@ -74,7 +86,6 @@
     "clsx": "^2.1.0",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.30.4",
-    "i": "^0.3.7",
     "lucide-react": "^0.359.0",
     "next": "14.1.4",
     "next-themes": "^0.3.0",
