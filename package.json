@@ -14,9 +14,9 @@
     "db:prod": "tsx ./scripts/prod.ts"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Vipul Rohit",
+    "email": "vipulrohit127@gmail.com",
+    "url": "https://github.com/Vipul-kumar18"
   },
   "description": "Interactive platform for language learning with lessons, quizzes, and progress tracking.",
   "keywords": [
@@ -57,21 +57,21 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/duolingo-clone.git"
+    "url": "https://github.com/Vipul-kumar18/duolingo-clone-vipulkumar"
   },
-  "homepage": "https://github.com/sanidhyy/duolingo-clone#readme",
+  "homepage": "https://github.com/Vipul-kumar18/duolingo-clone-vipulkumar?tab=readme-ov-file",
   "bugs": {
-    "url": "https://github.com/sanidhyy/duolingo-clone/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/Vipul-kumar18/duolingo-clone-vipulkumar/issues",
+    "email": "vipulrohit127@gmail.com"
   },
   "funding": [
     {
       "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
+      "url": "https://www.patreon.com/Vipul"
     },
     {
       "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "url": "https://www.buymeacoffee.com/Vipul"
     }
   ],
   "dependencies": {
